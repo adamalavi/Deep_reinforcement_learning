@@ -1,5 +1,5 @@
-# Deep_reinforcement_learning
-This repository includes various projects using different deep reinforcement learning algorithms and concepts performend on various OpenAI and Unity environments.
+# Deep Reinforcement Learning
+This repository includes various projects using different deep reinforcement learning algorithms and concepts performed on various OpenAI and Unity environments.
 ![image](https://user-images.githubusercontent.com/10624937/42135602-b0335606-7d12-11e8-8689-dd1cf9fa11a9.gif)
 
 ### OpenAI_Exercises
